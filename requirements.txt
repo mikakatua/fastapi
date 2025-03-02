@@ -1,0 +1,6 @@
+sqlmodel
+mariadb
+python-dotenv
+
+fastapi[standard]
+uvicorn[standard]
